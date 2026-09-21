@@ -1,0 +1,7 @@
+interface:
+  display_name: "Nexacro 17 Development"
+  short_description: "Nexacro 17 화면 개발과 오류 진단을 지원합니다"
+  default_prompt: "$nexacro를 사용해 프로젝트 관례를 보존하면서 이 Nexacro 17 화면을 개발하거나 진단해 주세요."
+
+policy:
+  allow_implicit_invocation: true
