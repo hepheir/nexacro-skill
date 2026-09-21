@@ -2,9 +2,9 @@
 
 Nexacro Platform 17 개발·분석·오류 진단을 위한 Codex 및 Claude Code 공용 스킬입니다.
 
-## 신입사원 학습 가이드
+## 신입사원 입문 매뉴얼
 
-저장소의 유튜브 기본 강의 6편을 바탕으로, 화면 만들기부터 데이터 바인딩·Grid·서버 연동까지 실습하는 [넥사크로 스튜디오 자습 가이드](youtube/guide/README.md)입니다. 각 장에 핵심 개념, 실습 순서, 완료 체크와 영상 구간 링크를 정리했습니다.
+[넥사크로 스튜디오 업무 입문 매뉴얼](guide/README.md)은 프로젝트 설정과 Generate, 화면·이벤트·Dataset·공통 함수, Spring Legacy 연동을 설명합니다. 기존 프로젝트를 처음 확인한다면 [프로젝트 열기](guide/basics/project/project-start.md)부터 시작하세요.
 
 ## Codex
 
